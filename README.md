@@ -1,5 +1,5 @@
 <div align="center">
-  ![monkey typing](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt2OG13Zm1iNnhmMm84dWgwYXJ2M3VuYnBjamJnNjAwa2duaDU4NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ySpxjJmsq9gsw/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt2OG13Zm1iNnhmMm84dWgwYXJ2M3VuYnBjamJnNjAwa2duaDU4NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ySpxjJmsq9gsw/giphy.gif" alt="Monkey typing on a keyboard" width="400">
 </div>
 
 # Hi, I'm Right Okon 👋
